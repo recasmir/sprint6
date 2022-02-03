@@ -1,0 +1,15 @@
+p{
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 50rem;
+    margin: 20px;
+    text-align: center;
+   
+}
+
+.activeText{
+    background-color: pink;
+}
+.disableText{
+    background-color: transparent;
+}
